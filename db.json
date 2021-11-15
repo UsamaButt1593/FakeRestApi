@@ -1,4 +1,5 @@
-[
+{
+  "methods": [
   {
     "name": "MethodMobile"
   },
@@ -9,3 +10,5 @@
     ]
   }
 ]
+
+}
