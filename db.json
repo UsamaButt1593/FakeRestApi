@@ -1,10 +1,10 @@
 {
   "methods": [
   {
-    "name": "MethodMobile"
+    "name": "com.undefineddev.bisegujranwalaresult2021.methods.mob.MethodMobile"
   },
   {
-    "name": "MethodWeb",
+    "name": "com.undefineddev.bisegujranwalaresult2021.methods.web.MethodWeb",
     "urls": [
       "https:www.youtube.com"
     ]
